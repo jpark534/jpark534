@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Julia, a Software Developer 👋
+---------
+- Studying Computer Engineering at the University of Waterloo
+- Loves binging old films and Billy Joel music
+- A runner 🏃‍♀️
 
 <!--
 **jpark534/jpark534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
