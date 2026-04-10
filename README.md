@@ -4,8 +4,6 @@
 
 <br/>
 
-**Computer Engineering @ University of Waterloo**
-
 ---
 
 ### about me
