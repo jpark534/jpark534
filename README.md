@@ -10,7 +10,7 @@
 
 - ⚙️ currently distro-hopping around Linux
 - 🎬 old film enthusiast
-- 🎵 billy joel devotee
+- 🎵 billy joel
 
 
 ---
