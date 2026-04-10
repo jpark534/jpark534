@@ -1,0 +1,17 @@
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="140" rx="12" fill="#0d1117"/>
+  <defs>
+    <pattern id="dots" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#2d2d8e" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="140" rx="12" fill="url(#dots)"/>
+
+  <text x="400" y="78" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">hi, i'm julia</text>
+
+  <rect x="644" y="54" width="4" height="50" rx="1" fill="#ffffff" opacity="0.9">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="400" y="118" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" fill="#8b8bcc" text-anchor="middle">computer engineering @ university of waterloo</text>
+</svg>
