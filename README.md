@@ -4,16 +4,16 @@
 
 <br/>
 
-**Computer Engineering @ University of Waterloo** · 2B
+**Computer Engineering @ University of Waterloo**
 
 ---
 
 ### about me
 
+- ⚙️ currently distro-hopping around Linux
 - 🎬 old film enthusiast
 - 🎵 billy joel devotee
-- 🔧 love learning what makes each tool tick — the tradeoffs, constraints, and quirks that make one the right choice over another
-- ⚙️ studying where hardware and software collide
+
 
 ---
 
@@ -42,12 +42,12 @@
 
 ---
 
-*"currently trying to figure out if a 10k and a debugging session can coexist in the same morning. the answer is probably yes, but the commit messages suffer."*
+*":)"*
 
 ---
 
 ### let's connect
 
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jparkhyun334@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/park-julia/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://juliapk.com/)
