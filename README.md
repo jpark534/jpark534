@@ -2,7 +2,7 @@
   <img src="./header.svg" alt="hi, i'm julia" width="800"/>
 </p>
 
-<br/>
+**Computer Engineering @ University of Waterloo** · 2B
 
 ---
 
@@ -12,11 +12,10 @@
 - 🎬 old film enthusiast
 - 🎵 billy joel
 
-
 ---
 
 ### tech stack
- 
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
@@ -38,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" />
 </p>
+
 ---
 
 *":)"*
